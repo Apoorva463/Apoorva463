@@ -1,6 +1,6 @@
 -👋 Hi, I’m @Apoorva463
 -👀 I’m interested in
-  💻 Front-End developing
+  . 💻 Front-End developing
   🌍 Travelling
   🚀 Training,
   🔍 Exploring and learning new things.
