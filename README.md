@@ -1,4 +1,4 @@
--👋 Hi, I’m @Apoorva463
+👋 Hi, I’m @Apoorva463
 - 👀 I’m interested in 🔍 Exploring and learning new things.
 - 🌱 I’m currently learning AIML Engineering
 - 💞️ I’m looking to collaborate on Projects
