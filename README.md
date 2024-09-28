@@ -2,7 +2,7 @@
 - 👀 I’m interested in 🔍 Exploring and learning new things.
 - 🌱 I’m currently learning AIML Engineering
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @apoorvatalwar4603@gmail.com
+- 📫 How to reach me: apoorvatalwar4603@gmail.com
 
 
 <!---
